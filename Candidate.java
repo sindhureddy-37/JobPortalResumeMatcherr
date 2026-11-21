@@ -6,7 +6,7 @@ public class Candidate {
     String skill1;
     String skill2;
 
-    // Constructo
+    // Constructor
     public Candidate(String name, String email, String skill1, String skill2) {
         this.name = name;
         this.email = email;
