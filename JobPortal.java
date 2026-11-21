@@ -10,7 +10,7 @@ public class JobPortal {
 
         do {
             System.out.print(message);
-            input = sc.nextLine().trim();
+            input = sc.nextLine().trim()
 
             if (input.isEmpty()) {
                 System.out.println("Input cannot be empty! Try again.");
