@@ -7,12 +7,7 @@ public class Candidate {
     String skill2;
 
     // Constructor
-    public Candidate(String name, String email, String skill1, String skill2) {
-        this.name = name;
-        this.email = email;
-        this.skill1 = skill1;
-        this.skill2 = skill2;
-    }
+
 
     // Check whether candidate has a particular skill
     public boolean hasSkill(String requiredSkill) {
