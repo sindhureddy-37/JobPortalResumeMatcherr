@@ -18,7 +18,12 @@ public class Job {
 
     // Display job details
 
+    public void displayJob() {
 
+        System.out.println("Job Name: " + jobName);
+        System.out.println("Required Skills: " + skill1 + ", " + skill2);
+        System.out.println("Description: " + description);
+    }
     // Display detailed job requirements
     public void displayJobRequirements() {
 
