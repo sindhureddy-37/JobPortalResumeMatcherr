@@ -6,7 +6,7 @@ public class Job {
     String skill2;
     String description;
 
-    // Constructor
+    // Constructo
     public Job(String jobName, String skill1, String skill2,
                String description) {
 
