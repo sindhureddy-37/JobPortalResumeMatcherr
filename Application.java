@@ -6,7 +6,7 @@ public class Application {
     int matchPercentage;
     String status;
 
-    // Constructo
+    // Constructor
     public Application(String candidateName, String jobName,
                        int matchPercentage, String status) {
 
