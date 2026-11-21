@@ -1,6 +1,6 @@
 # Job Portal and Resume Matcher
 
-## Project Description
+## Project Descriptions
 
 A simple Java-based Job Portal that helps candidates
 find suitable jobs based on their skills.
